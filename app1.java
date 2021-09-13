@@ -4,6 +4,7 @@ public class app1
 	{
 		System.out.println("+zachet po laboratornoy");
 		System.out.println("Bespoleznaya stroka");
+		System.out.println("RBPO one love");
 
 	}
 }
